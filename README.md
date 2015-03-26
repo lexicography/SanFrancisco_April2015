@@ -1,11 +1,21 @@
-#Open Source Show and Tell
+#[Open Source Show and Tell](opensourceshowandtell.com)
 ##Friday April 24th, 2015 in San Francisco, CA from 2pm - 6pm
 
 ###[Submit a topic for a speaking spot](https://github.com/OpenSourceShowAndTell/SanFrancisco_April2015/issues/new)
 
+**What to include:**
+
+* Title of Talk:
+* Name:
+* Email:
+* Details on the story you'd like to tell:
+* Speaker bio: 
+* Relevant links: (Twitter, website, open source projects you've built or contributed to)
+
+Questions? Submit an issue! OR email [friends@keen.io](mailto:friends@keen.io). 
+
 ###Code of Conduct (Please feel free to make suggestions or edits to our code of conduct via pull requests)
 
-We recommend you institute a Code of Conduct for your event. Feel free to use the one below, or visit the [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) to see a sample Code of Conduct and create your own!
 
 Open Source Show & Tell is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment in any form. Participants violating these rules may be sanctioned or expelled from the event at the discretion of the event organizers.
 
