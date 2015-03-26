@@ -12,7 +12,7 @@
 * Speaker bio: 
 * Relevant links: (Twitter, website, open source projects you've built or contributed to)
 
-Questions? Submit an issue! OR email [friends@keen.io](mailto:friends@keen.io). 
+Questions? Submit an issue! OR [email us](mailto:justin+opensource@keen.io). 
 
 ###Code of Conduct (Please feel free to make suggestions or edits to our code of conduct via pull requests)
 
